@@ -5,3 +5,5 @@ new_string = []
   end
 puts new_string
 end
+
+reverse_each_word

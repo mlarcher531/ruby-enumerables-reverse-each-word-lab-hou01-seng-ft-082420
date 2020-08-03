@@ -6,4 +6,4 @@ new_string = []
 puts new_string
 end
 
-reverse_each_word
+reverse_each_word(sentence)
